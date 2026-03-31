@@ -4,6 +4,8 @@ Stable Mesh is a **virtual credit card (VCC) platform** that bridges your crypto
 
 ![Stable Mesh Dashboard](.gitbook/assets/01_home_dashboard.png)
 
+> 🌐 [中文版本](zh/README.md)
+
 ---
 
 ## What You Can Do
