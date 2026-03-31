@@ -11,3 +11,4 @@
   * [View Transactions](cards/transactions.md)
 * [Create a Card](create-card.md)
 * [Invite & Earn](invite-earn.md)
+* [Fees & Limits](fees-limits.md)
