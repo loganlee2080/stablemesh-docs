@@ -21,8 +21,21 @@ Before you can top up a card, you need funds in your Stable Mesh crypto wallet. 
 | Network | Token |
 |---------|-------|
 | Solana (SOL) | USDT, USDC |
+| Arbitrum (ARB) | USDT, USDC |
 
 > More networks may be available — check the network dropdown in the app for the latest options.
+
+---
+
+## Deposit via CNY / Alipay / WeChat Pay
+
+If you'd like to deposit using CNY, Alipay, or WeChat Pay, please contact our support team directly and we will assist you with an alternative top-up method.
+
+{% hint style="info" %}
+Contact us to arrange a CNY / Alipay / WeChat Pay deposit:
+- Telegram: [@stablemesh](https://t.me/stablemesh)
+- Email: [contact@stablemesh.io](mailto:contact@stablemesh.io)
+{% endhint %}
 
 ---
 

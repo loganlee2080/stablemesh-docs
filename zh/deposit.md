@@ -21,8 +21,21 @@
 | 网络 | 代币 |
 |------|------|
 | Solana（SOL）| USDT、USDC |
+| Arbitrum（ARB）| USDT、USDC |
 
 > 可用网络可能有所增加——请在应用内查看网络下拉菜单获取最新选项。
+
+---
+
+## 人民币 / 支付宝 / 微信支付充值
+
+如需使用人民币、支付宝或微信支付进行充值，请直接联系我们的客服团队，我们将为您安排其他充值方式。
+
+{% hint style="info" %}
+联系我们安排人民币 / 支付宝 / 微信支付充值：
+- Telegram：[@stablemesh](https://t.me/stablemesh)
+- 邮箱：[contact@stablemesh.io](mailto:contact@stablemesh.io)
+{% endhint %}
 
 ---
 
