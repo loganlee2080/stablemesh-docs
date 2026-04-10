@@ -27,6 +27,34 @@ Before you can top up a card, you need funds in your Stable Mesh crypto wallet. 
 
 ---
 
+## Deposit via Bank Transfer
+
+Stable Mesh supports fiat deposits via bank transfer. No crypto wallet required.
+
+**Supported currencies:**
+
+| Currency | Code |
+|----------|------|
+| US Dollar | USD |
+| Singapore Dollar | SGD |
+| Hong Kong Dollar | HKD |
+| UAE Dirham | AED |
+| Euro | EUR |
+| Japanese Yen | JPY |
+| British Pound | GBP |
+| Australian Dollar | AUD |
+| Brazilian Real | BRL |
+
+To initiate a bank transfer deposit, contact us directly and we will provide instructions and banking details.
+
+{% hint style="info" %}
+Contact us to arrange a bank transfer deposit:
+- Telegram: [@stablemesh](https://t.me/stablemesh)
+- Email: [contact@stablemesh.io](mailto:contact@stablemesh.io)
+{% endhint %}
+
+---
+
 ## After Depositing
 
 Once your balance appears under **Crypto Assets** on the dashboard, you're ready to top up a card.

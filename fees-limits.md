@@ -29,9 +29,11 @@
 ### Deposit Fee
 - **Free plan:** A **2%** fee is charged on every crypto deposit into your Stable Mesh wallet.
 - **Pro & Enterprise plans:** Deposits are **fee-free (0%)**.
+- **Bank transfer (fiat):** Fees and exchange rates are confirmed at time of transfer. Contact us for details.
 
 ### Minimum Deposit
 - The minimum deposit amount is **20 USDT** on Free and Pro plans.
+- Bank transfer minimums are agreed upon at onboarding.
 - Enterprise accounts may have custom minimums agreed upon at onboarding.
 
 ### Card Limits

@@ -26,6 +26,7 @@ Stable Mesh is built for anyone who needs a reliable, crypto-funded payment solu
 - **Low price, no hidden fees** — transparent flat-rate pricing with no surprise charges on top-ups, conversions, or transactions
 - **Widely accepted & stable** — Mastercard network acceptance worldwide, with rock-solid card reliability
 - **Fast crypto top-ups** — deposit USDT or USDC and spend within minutes
+- **Fiat bank transfer** — fund your account via bank transfer in USD, SGD, HKD, AED, EUR, JPY, GBP, AUD, BRL — no crypto required
 - **Rebates up to 2%** — earn cashback on spending through our affiliate and rebate program; [learn more](affiliate.md)
 
 ---

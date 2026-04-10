@@ -27,6 +27,34 @@
 
 ---
 
+## 银行转账充值
+
+Stable Mesh 支持法币银行转账充值，无需加密货币钱包。
+
+**支持的货币：**
+
+| 货币 | 代码 |
+|------|------|
+| 美元 | USD |
+| 新加坡元 | SGD |
+| 港元 | HKD |
+| 阿联酋迪拉姆 | AED |
+| 欧元 | EUR |
+| 日元 | JPY |
+| 英镑 | GBP |
+| 澳元 | AUD |
+| 巴西雷亚尔 | BRL |
+
+如需发起银行转账充值，请直接联系我们，我们将提供转账说明及银行账户信息。
+
+{% hint style="info" %}
+联系我们安排银行转账充值：
+- Telegram：[@stablemesh](https://t.me/stablemesh)
+- 邮箱：[contact@stablemesh.io](mailto:contact@stablemesh.io)
+{% endhint %}
+
+---
+
 ## 充值后
 
 余额显示在仪表盘**加密资产**模块后，即可为卡片充值。
