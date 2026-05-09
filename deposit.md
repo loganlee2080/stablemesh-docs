@@ -27,18 +27,6 @@ Before you can top up a card, you need funds in your Stable Mesh crypto wallet. 
 
 ---
 
-## Deposit via CNY / Alipay / WeChat Pay
-
-If you'd like to deposit using CNY, Alipay, or WeChat Pay, please contact our support team directly and we will assist you with an alternative top-up method.
-
-{% hint style="info" %}
-Contact us to arrange a CNY / Alipay / WeChat Pay deposit:
-- Telegram: [@stablemesh](https://t.me/stablemesh)
-- Email: [contact@stablemesh.io](mailto:contact@stablemesh.io)
-{% endhint %}
-
----
-
 ## After Depositing
 
 Once your balance appears under **Crypto Assets** on the dashboard, you're ready to top up a card.
