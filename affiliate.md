@@ -1,6 +1,6 @@
 # Affiliate Program
 
-Partner with Stable Mesh and earn up to **50% fee rebate** on every transaction your referrals make.
+Partner with Stable Mesh and earn fee rebates on every transaction your referrals make.
 
 ---
 
@@ -8,20 +8,10 @@ Partner with Stable Mesh and earn up to **50% fee rebate** on every transaction 
 
 The Stable Mesh Affiliate Program is designed for individuals and businesses who can bring volume to the platform — influencers, communities, crypto projects, agencies, and power users.
 
-When someone signs up through your affiliate link and uses Stable Mesh, **you earn a rebate on the fees they generate** — up to 50% depending on the volume you bring.
+When someone signs up through your affiliate link and uses Stable Mesh, **you earn a rebate on the fees they generate**. Rebate rates are agreed individually based on your audience and expected volume.
 
----
-
-## Rebate Structure
-
-| Monthly Referred Volume | Fee Rebate Rate |
-|------------------------|:---------------:|
-| $0 – $10,000 | Up to 20% |
-| $10,000 – $50,000 | Up to 35% |
-| $50,000+ | **Up to 50%** |
-
-{% hint style="success" %}
-High-volume affiliates can negotiate custom rebate rates directly with the founder.
+{% hint style="info" %}
+**Rebate rates are not published.** To learn the rate that applies to you, reach out via Telegram or email — see [How to Get Started](#how-to-get-started) below.
 {% endhint %}
 
 ---

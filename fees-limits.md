@@ -11,7 +11,7 @@
 | Feature | Free | Pro | Enterprise |
 |---------|:----:|:---:|:----------:|
 | **Price** | Free | $249 / month | Contact us |
-| **Deposit Fee** | 3% | 0% | 0% |
+| **Deposit Fee** | 2% | 0% | 0% |
 | **Minimum Deposit** | 20 USDT | 20 USDT | Custom |
 | **Virtual Cards** | 1 | Up to 50 | Unlimited |
 | **Card Top-Up Fee** | Standard rate | Standard rate | Custom rate |
@@ -27,7 +27,7 @@
 ## Fee Notes
 
 ### Deposit Fee
-- **Free plan:** A **3%** fee is charged on every crypto deposit into your Stable Mesh wallet.
+- **Free plan:** A **2%** fee is charged on every crypto deposit into your Stable Mesh wallet.
 - **Pro & Enterprise plans:** Deposits are **fee-free (0%)**.
 
 ### Minimum Deposit
