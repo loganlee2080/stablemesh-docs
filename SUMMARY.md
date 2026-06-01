@@ -14,6 +14,16 @@
 * [Fees & Limits](fees-limits.md)
 * [Affiliate Program](affiliate.md)
 
+## Developers
+
+* [B2B Open API](api/README.md)
+  * [Authentication](api/authentication.md)
+  * [Wallet & Funding](api/wallet.md)
+  * [Cards](api/cards.md)
+  * [Transactions](api/transactions.md)
+  * [Webhooks](api/webhooks.md)
+  * [Errors](api/errors.md)
+
 ## 中文文档
 
 * [欢迎](zh/README.md)
@@ -29,3 +39,7 @@
 * [邀请赚钱](zh/invite-earn.md)
 * [费率与限额](zh/fees-limits.md)
 * [合作伙伴计划](zh/affiliate.md)
+
+## 开发者
+
+* [B2B 开放 API](zh/api/README.md)
