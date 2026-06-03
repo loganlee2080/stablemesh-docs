@@ -16,7 +16,7 @@
 
 ## Developers
 
-* [B2B Open API](api/README.md)
+* [Open API](api/README.md)
   * [Authentication](api/authentication.md)
   * [Idempotency](api/idempotency.md)
   * [Wallet & Funding](api/wallet.md)
@@ -43,4 +43,4 @@
 
 ## 开发者
 
-* [B2B 开放 API](zh/api/README.md)
+* [开放 API](zh/api/README.md)

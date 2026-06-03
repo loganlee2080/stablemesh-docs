@@ -1,8 +1,6 @@
-# B2B Open API
+# Open API
 
-The Stable Mesh **Open API** lets business clients issue and manage cards programmatically. It is a server-to-server REST API authenticated with a single secret **API key** — the same Stripe-style model you already know.
-
-This reference covers the **v1** API for **ether.fi** cards.
+The Stable Mesh **Open API** lets clients issue and manage cards programmatically. It is a server-to-server REST API authenticated with a single secret **API key** — the same Stripe-style model you already know.
 
 ---
 
@@ -21,7 +19,7 @@ All endpoints below are relative to a base URL and live under the `/v1` prefix, 
 
 - **One account, one balance.** Your account holds a single **USDT balance**. You top it up by depositing USDT on-chain (see [Wallet & Funding](wallet.md)).
 - **Cards draw from that balance.** Creating a card or topping one up **deducts from your USDT balance**. The card's spending limit is kept in lock-step with its balance, so a card can never spend more than you funded.
-- **ether.fi cards.** Cards are issued on the ether.fi BIN. Inventory is provisioned by Stable Mesh ahead of time; `card/create` assigns you a card from that inventory.
+- **Card inventory.** Cards are issued on a Visa BIN. Inventory is provisioned by Stable Mesh ahead of time; `card/create` assigns you a card from that inventory.
 
 ---
 

@@ -1,6 +1,6 @@
-# B2B 开放 API
+# 开放 API
 
-Stable Mesh **开放 API** 让企业客户以编程方式发行和管理卡片。这是一套服务器到服务器的 REST API，使用单一密钥 **API Key** 进行认证（Stripe 风格）。
+Stable Mesh **开放 API** 让客户以编程方式发行和管理卡片。这是一套服务器到服务器的 REST API，使用单一密钥 **API Key** 进行认证（Stripe 风格）。
 
 ---
 
@@ -36,5 +36,5 @@ curl -X POST https://api.stablemesh.io/v1/card/list \
 ```
 
 {% hint style="info" %}
-完整的接口字段、请求/响应示例与错误码以英文版为准，请参阅英文文档的 **B2B Open API** 章节（Authentication / Wallet & Funding / Cards / Transactions / Errors）。如需开通账户与 API Key，请联系你的客户经理。
+完整的接口字段、请求/响应示例与错误码以英文版为准，请参阅英文文档的 **Open API** 章节（Authentication / Wallet & Funding / Cards / Transactions / Errors）。如需开通账户与 API Key，请联系你的客户经理。
 {% endhint %}
