@@ -1,6 +1,8 @@
 # Cards
 
-All card endpoints are `POST` under `/v1`, authenticated with the `X-API-KEY` header. Cards are issued on the **ether.fi** BIN and funded from your account's USDT balance.
+All card endpoints are `POST` under `/v1`, authenticated with the `X-API-KEY` header. Cards are issued on a Visa BIN and funded from your account's USDT balance.
+
+> **Make funding calls retry-safe.** Send an `Idempotency-Key` header on `card/create`, `card/deposit`, `card/freeze`, `card/unfreeze`, and `card/cancel` so a retried request never creates a second card or double-debits. See [Idempotency](idempotency.md).
 
 ---
 
@@ -50,7 +52,7 @@ Issues a new card and funds it from your USDT balance. The requested `amount` is
 |-------|----------|-------------|
 | `amount` | yes | Initial load, deducted from your USDT balance |
 | `currency` | yes | `USDT` |
-| `binId` | no | Defaults to the ether.fi BIN `VISA-EFI-454924` |
+| `binId` | no | Defaults to the card BIN `VISA-EFI-454924` |
 | `alias` | no | A label for the card |
 
 **Response** — the created card object

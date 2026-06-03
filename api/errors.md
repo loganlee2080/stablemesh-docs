@@ -25,6 +25,9 @@ Always check the `code` field even on a `200` response.
 | `4008` | CARD_IS_DELETING | Card is being cancelled |
 | `4009` | CARD_OUT_OF_INVENTORY | No card inventory available — contact support |
 | `8001` | DEPOSIT_AMOUNT_TOO_SMALL | Amount below the minimum (or too small to cover the deposit fee) |
+| `4210` | IDEMPOTENCY_KEY_REQUIRED | An `Idempotency-Key` is required on this mutation but was missing (HTTP 400) — see [Idempotency](idempotency.md) |
+| `4211` | IDEMPOTENCY_KEY_MISMATCH | The `Idempotency-Key` was already used with a different request (HTTP 409) |
+| `4212` | IDEMPOTENCY_KEY_IN_PROGRESS | A request with this `Idempotency-Key` is still in flight — retry shortly (HTTP 409) |
 | `11002` | AUTH_FAILED | Invalid or revoked API key (HTTP 401) |
 | `9999` | SYSTEM_ERROR | Unexpected server error — retry later |
 

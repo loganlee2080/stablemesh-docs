@@ -18,6 +18,7 @@
 
 * [B2B Open API](api/README.md)
   * [Authentication](api/authentication.md)
+  * [Idempotency](api/idempotency.md)
   * [Wallet & Funding](api/wallet.md)
   * [Cards](api/cards.md)
   * [Transactions](api/transactions.md)

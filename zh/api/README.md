@@ -2,8 +2,6 @@
 
 Stable Mesh **开放 API** 让企业客户以编程方式发行和管理卡片。这是一套服务器到服务器的 REST API，使用单一密钥 **API Key** 进行认证（Stripe 风格）。
 
-本参考文档覆盖 **ether.fi** 卡片的 **v1** 版本 API。
-
 ---
 
 ## 基础地址
@@ -21,7 +19,8 @@ Stable Mesh **开放 API** 让企业客户以编程方式发行和管理卡片�
 
 - **一个账户，一个余额。** 你的账户持有单一 **USDT 余额**。通过链上充值 USDT 来充值。
 - **卡片从余额扣款。** 创建卡片或为卡片充值都会从你的 **USDT 余额扣款**。卡片消费额度与卡片余额实时同步，卡片永远不会超出你充值的金额。
-- **ether.fi 卡片。** 卡片在 ether.fi BIN 上发行，库存由 Stable Mesh 预先准备；`card/create` 会从库存中为你分配卡片。
+- **卡片库存。** 卡片在 Visa BIN 上发行，库存由 Stable Mesh 预先准备；`card/create` 会从库存中为你分配卡片。
+- **幂等重试。** 在 `card/create`、`card/deposit`、`card/freeze`、`card/unfreeze`、`card/cancel` 等会动账的接口上携带 `Idempotency-Key` 请求头（建议用 UUID），重试同一请求会原样返回首次的响应，不会重复发卡或重复扣款。详见英文文档 **Idempotency** 章节。
 
 ---
 
