@@ -9,7 +9,7 @@ The Stable Mesh **Open API** lets clients issue and manage cards programmaticall
 | Environment | Base URL |
 |-------------|----------|
 | Production | `https://api.stablemesh.io` |
-| Sandbox / Dev | `https://dev-open.stablemesh.io` |
+| Sandbox / Dev | `https://api-server-dev-1440.up.railway.app` |
 
 All endpoints below are relative to a base URL and live under the `/v1` prefix, e.g. `https://api.stablemesh.io/v1/card/create`.
 

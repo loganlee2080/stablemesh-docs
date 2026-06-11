@@ -9,7 +9,7 @@ Stable Mesh **开放 API** 让客户以编程方式发行和管理卡片。这�
 | 环境 | Base URL |
 |------|----------|
 | 生产环境 | `https://api.stablemesh.io` |
-| 沙盒 / 开发 | `https://dev-open.stablemesh.io` |
+| 沙盒 / 开发 | `https://api-server-dev-1440.up.railway.app` |
 
 所有接口均在 `/v1` 前缀下，例如 `https://api.stablemesh.io/v1/card/create`。
 

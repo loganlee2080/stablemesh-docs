@@ -12,7 +12,7 @@ You need an **API key**, issued by the Stable Mesh team during onboarding. A key
 
 | Environment | Base URL | Use for |
 |---|---|---|
-| Sandbox / Dev | `https://dev-open.stablemesh.io` | Build + test. ether.fi card issuance is mocked; everything else is real. |
+| Sandbox / Dev | `https://api-server-dev-1440.up.railway.app` | Build + test. ether.fi card issuance is mocked; everything else is real. |
 | Production | `https://api.stablemesh.io` | Live cards and real funds. |
 
 All endpoints are `POST`, live under `/v1`, take a JSON body, and require two headers:
@@ -24,7 +24,7 @@ X-API-KEY: smk_your_key_here
 
 > **Tip — set up your shell once:**
 > ```bash
-> export SM_BASE="https://dev-open.stablemesh.io"
+> export SM_BASE="https://api-server-dev-1440.up.railway.app"
 > export SM_KEY="smk_your_key_here"
 > sm() { curl -s -X POST "$SM_BASE$1" -H "Content-Type: application/json" -H "X-API-KEY: $SM_KEY" -d "${2:-{} }"; }
 > ```
