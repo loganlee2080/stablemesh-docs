@@ -12,7 +12,7 @@ You need an **API key**, issued by the Stable Mesh team during onboarding. A key
 
 | Environment | Base URL | Use for |
 |---|---|---|
-| Sandbox / Dev | `https://api-server-dev-1440.up.railway.app` | Build + test. ether.fi card issuance is mocked; everything else is real. |
+| Sandbox / Dev | `https://api-server-dev-1440.up.railway.app` | build & test |
 | Production | `https://api.stablemesh.io` | Live cards and real funds. |
 
 All endpoints are `POST`, live under `/v1`, take a JSON body, and require two headers:
