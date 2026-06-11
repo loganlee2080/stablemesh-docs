@@ -17,6 +17,7 @@
 ## Developers
 
 * [Open API](api/README.md)
+  * [Integration Guide](api/integration-guide.md)
   * [Authentication](api/authentication.md)
   * [Idempotency](api/idempotency.md)
   * [Wallet & Funding](api/wallet.md)
